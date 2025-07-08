@@ -9,7 +9,7 @@ Files included:
 The page uses background gradients, colored headings, and text-shadow effects for better visual appeal. It was tested in Chrome and Firefox and displays consistently.
 
 Page preview URL (HTMLPreview):
-
+https://htmlpreview.github.io/?https://github.com/Spyderdreams/CSSBasicsTextStyling/blob/main/constitution.html
 
 Validated with:
 - HTML Validator: https://validator.w3.org/
